@@ -1,0 +1,17 @@
+Equipment:
+    - Name: crock pot
+      Id: nNgYPO7roy
+      Tag:
+          - Slow Cooker
+    - Name: chopping knife
+      Id: TP4qBYYWai
+      Tag:
+          - Knife
+    - Name: cutting board
+      Id: vhbF7mmTeq
+      Tag:
+          - accessories
+    - Name: large pot (more detail needed)
+      Id: ??
+      Tag:
+          - Pot

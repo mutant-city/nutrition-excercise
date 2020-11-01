@@ -1,68 +1,99 @@
-Ingredients:
-  - Name:  Olive Oil
-    Quantity:  .75
-    Units: Ounce
-  - Name:  Beef Chuck Roast
-    Quantity:  3
-    Units: Pound
-  - Name: Black Peppercorns
-    Quantity: .75
-    Units: Ounce
-  - Name: Salt
-    Quantity: ??
-    Units: ??
-  - Name: Yellow Onion
-    Quantity: .5
-    Units: Pound
-  - Name: Beef Broth
-    Quantity: 12
-    Units: Ounce
-  - Name: Carrots
-    Quantity: 1
-    Units: Pound
-  - Name: Fresh Parsley
-    Quantity: .1
-    Units: Ounce
-  - Name: Fresh RoseMary
-    Quantity: .66
-    Units: Ounce
-  - Name: Fresh Thyme
-    Quantity: .2
-    Units: Ounce
-  - Name: Garlic
-    Quantity: .75
-    Units: Ounce
-  - Name:  Worcestershire Sauce
-    Quantity: .33
-    Units: Ounce
-  - Name:  Worcestershire Sauce
-    Quantity: .33
-    Units: Ounce
-  - Name:  Yukon Gold Potatoes
-    Quantity: 2.5
-    Units: Pound
+Recipe:
+  Tags:
+    - Meat
+    - Lunch
+    - Dinner
+    - Slow Cooker
+    - Crock Pot
+    - American
+  Servings: 6
+  Prep:
+    Amount: 25
+    Unit: Minutes
+  Cook:
+    Amount: 8
+    Unit: Hours
+  Ingredients:
+    - Name:  olive oil
+      Quantity:  .75
+      Units: ounce
+      ID: exfwr3Wto0
+    - Name:  beef chuck roast
+      Quantity:  3
+      Units: pound
+      Id: tLxEHE9eZE
+    - Name: black peppercorns
+      Quantity: .1
+      Units: ounce
+      Id: M6yR28aUg0
+    - Name: salt
+      Quantity: .2
+      Units: ounce
+      Id: C5qJQ7HAYl
+    - Name: yellow onion
+      Quantity: .5
+      Units: pound
+      Id: 5dGJHAxGuT
+    - Name: beef broth
+      Quantity: 12
+      Units: ounce
+      Id: ImNoLDMlRS
+    - Name: carrots
+      Quantity: 1
+      Units: pound
+      Id: QFfyGfPKWu
+    - Name: fresh parsley
+      Quantity: .1
+      Units: Ounce
+      Id: aCrFWuVl55
+    - Name: fresh rosemary
+      Quantity: .66
+      Units: Ounce
+      Id: apf2eHAzpc
+    - Name: fresh thyme
+      Quantity: .2
+      Units: ounce
+      Id: apf2eHAzpc
+    - Name: garlic
+      Quantity: .75
+      Units: ounce
+      Id: x3ZyMTFuFd
+    - Name:  worcestershire sauce
+      Quantity: .33
+      Units: ounce
+      Id: ajf7LB86po
+    - Name:  yukon gold potatoes
+      Quantity: 2.5
+      Units: pound
+      Id: QezTiU3m8T
+  Equipment:
+    - Name: crock pot
+      Id: nNgYPO7roy
+    - Name: chopping knife
+      Id: TP4qBYYWai
+    - Name: cutting board
+      Id: vhbF7mmTeq
+    - Name: large pot (more detail needed)
+      Id: ??
+  Instructions:
+    1: Heat 1 Tbsp olive oil in a large pot over medium-high heat.
+    2: Dab roast dry with paper towels,
+    3: Season roast all over with salt and pepper.
+    4: Sear roast in pot until browned on both sides, about 4 - 5 minutes per side.
+    5: Transfer roast to slow cooker.
+    6: Add remaining 1/2 Tbsp olive oil to pot.
+    7: Add onion and saute 2 minutes,
+    8: Add garlic and saute 30 seconds longer.
+    9: Pour onion mixture over roast in slow cooker.
+    10: Return pot to heat, pour in beef broth, Worcestershire, thyme and rosemary and cook about 15 seconds, just long enough to scrape up browned bits from the bottom of the pot.
+    11: Remove from heat.
+    12: Layer potatoes and carrots over onion layer in slow cooker, pour beef broth evenly over top then season with salt and pepper.
+    13: Cover slow cooker and cook on low heat until roast and vegetables are tender, about 8 - 9 hours.
+    14: Remove roast and vegetables, shred roast (discard fat) and cut potatoes if desired.
+    15: If you'd like to thicken the broth and make a gravy
+       Pour broth from slow cooker through a fine mesh strainer into a small saucepan**.
+       Heat over medium-high heat.
+       Whisk cornstarch with 3 Tbsp beef broth then pour into saucepan.
+       Bring to a simmer, stirring constantly, let simmer 30 - 60 seconds.
+    16: Plate roast and vegetables, pour gravy over the top and sprinkle with parsley.
 
-
-
-Salt and freshly ground black pepper
-1 medium yellow onion, peeled, halved and cut into thick slices
-5 garlic cloves, minced (1 1/2 Tbsp)
-1 1/4 cups cup beef broth
-2 tsp Worcestershire sauce
-1 Tbsp minced fresh thyme
-1 Tbsp minced fresh rosemary
-2.5 lbs small yukon gold potatoes, left whole
-5 medium carrots (about 1 lb), peeled and cut into 1-inch pieces*
-2 1/2 Tbsp cornstarch mixed with 3 Tbsp beef broth, optional, for thickening gravy
-2 Tbsp chopped fresh parsley
-
-
-
-
-Pantry Staples
-.1 oz
-Black Peppercorns
-.75 oz
-Olive Oil
-.2 oz
-Salt
