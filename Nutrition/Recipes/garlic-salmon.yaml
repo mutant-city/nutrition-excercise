@@ -90,27 +90,27 @@ Recipe:
         - melted
         - unsalted
     - Name: asparagus
-      Id:
+      Id: ANDyVmiHX5
       Quantity: 18
       Unit: spears
       Preparation:
         - woody ends removed
     - Name: white wine
-      Id:
+      Id: UmpogeMIHW
       Quantity: 2
       Unit: tablespoon
       Substitution: ofkm4xaOlG
       Preparation:
         - dry
     - Name: chicken broth
-      Id:
+      Id: VsjujPdasP
       Quantity: 1/4
       Unit: cup
       Substitution: ofkm4xaOlG
       Preparation:
         - low sodium
     - Name: lemon
-      Id:
+      Id: 9J5ixxYdm2
       Quantity: 1
       Unit: item
       Preparation:
