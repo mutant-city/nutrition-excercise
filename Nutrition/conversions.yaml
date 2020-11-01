@@ -1,6 +1,13 @@
-Table:
-  tablespoon: .5 Ounce
-  teaspoon: 0.166667 Ounce
+teaspoon:
+  ounce: 0.166667
+tablespoon:
+  ounce: .5
+  teaspoons: 3
+cup:
+  tablespoons: 16
+ounce:
+  tablespoon: 2
+  milliliter: 29.5735
+pound:
+  ounce: 16
 
-Metric:
-  Ounce: 29.5735 Ml
