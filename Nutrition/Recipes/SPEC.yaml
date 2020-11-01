@@ -1,0 +1,32 @@
+Recipe:
+  Name: name of this recipe
+  Id: unique hash for this recipe
+  Tags:
+    - array of tags
+  Servings: number of servings this makes
+  Prep: how long this takes to prep
+    Amount: 10
+    Unit: Minutes
+  Cook: how long this takes to cook
+    Amount: 25
+    Unit: Minutes
+  StorageDuration: How long this can be stored and still be good.
+  Ingredients:
+    - Name: name of item
+      Quantity: the number of the units of measure
+      Units: the unit of measure
+      Id: unique has for this item
+      Substitution: <same hash for each item that can be substituted for each other>
+      Preparation:
+        - array
+        - of ways that the item should be prepared(i.e. chopped, minced, fresh, fillets, ground, etc.)
+  Equipment: TBD
+
+  Instructions: In progress
+    Main:
+      1: ..
+      2: ...
+    Additional:
+      1: ...
+      2: ..
+
