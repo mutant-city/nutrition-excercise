@@ -1,0 +1,135 @@
+Recipe:
+  Name: Garlic Salmon
+  Id: C2VrRAvMKB
+  Tags:
+    - Meat
+    - Fish
+    - Lunch
+    - Dinner
+    - Single Pot
+    - Seafood
+  Servings: 4
+  Prep:
+    Amount: 10
+    Unit: Minutes
+  Cook:
+    Amount: 25
+    Unit: Minutes
+  Ingredients:
+    - Name: olive oil
+      Quantity: 1
+      Units: ounce
+      Id: exfwr3Wto0
+      Preparation:
+        - extra
+        - virgin
+    - Name: fingerling potatoes
+      Quantity: 1
+      Units: pound
+      Id: b2MGCydAw7
+      Substitution: SiGEc7EBhV
+      Preparation:
+        - n/a
+    - Name: yukon gold potatoes
+      Quantity: 1
+      Units: pound
+      Id: QezTiU3m8T
+      Substitution: SiGEc7EBhV
+      Preparation:
+        - halved
+    - Name: red potatoes
+      Quantity: 1
+      Units: pound
+      Id: j3mIQlkoNG
+      Substitution: SiGEc7EBhV
+      Preparation:
+        - halved
+    - Name: salt
+      Id: C5qJQ7HAYl
+      Quantity: 1.5
+      Units: teaspoon
+      Preparation:
+        - n/a
+    - Name: black peppercorns
+      Id: M6yR28aUg0
+      Quantity: .5
+      Units: teaspoon
+      Preparation:
+        - ground
+    - Name: salmon
+      Id: AECdVgBl5o
+      Quantity: 24
+      Units: Ounce
+      Preparation:
+        - 4 fillets
+    - Name: garlic
+      Id: x3ZyMTFuFd
+      Quantity: 2.5
+      Units: tablespoon
+      Preparation:
+        - minced
+    - Name: parsley
+      Id: aCrFWuVl55
+      Quantity: 2
+      Unit: tablespoon
+      Preparation:
+        - fresh
+        - chopped
+    - Name: lemon juice
+      Id: aooUmRlGTf
+      Quantity: .33
+      Unit: cup
+      Preparation:
+        - fresh
+        - squeezed
+    - Name: butter
+      Id: 1gblPhhre8
+      Quantity: .5
+      Unit: cup
+      Preparation:
+        - melted
+        - unsalted
+    - Name: asparagus
+      Id:
+      Quantity: 18
+      Unit: spears
+      Preparation:
+        - woody ends removed
+    - Name: white wine
+      Id:
+      Quantity: 2
+      Unit: tablespoon
+      Substitution: ofkm4xaOlG
+      Preparation:
+        - dry
+    - Name: chicken broth
+      Id:
+      Quantity: 1/4
+      Unit: cup
+      Substitution: ofkm4xaOlG
+      Preparation:
+        - low sodium
+    - Name: lemon
+      Id:
+      Quantity: 1
+      Unit: item
+      Preparation:
+        - garnished sliced
+        -
+  Equipment: TBD
+
+  Instructions:
+    Main:
+      1: Heat oven to 400°F | 200°C.
+      2: On a large rimmed baking sheet, toss together potatoes with the oil, 1/2 tablespoon of garlic, 1/2 teaspoon salt, and 1/4 teaspoon pepper.
+      3: Spread out in an even layer and roast for 15 minutes until they're just starting to soften and brown.
+      4: Push potatoes to one side of the sheet pan and arrange salmon down the centre.
+      5: Rub salmon evenly with 1 1/2 tablespoons of the minced garlic and 2 tablespoons of parsley.
+      6: Add the asparagus to the other side of the pan.
+      7: Combine 1/4 cup of lemon juice and 1/4 cup of the melted butter together and pour the mixture over the salmon and asparagus.
+      8: Season everything with the remaining salt and pepper.
+      9: Return to oven and continue baking until the potatoes are golden and fork-tender and the salmon is opaque throughout, (about 10 minutes).
+      10: Optional, broil in the last 2 minutes for charred edges.
+      11: Meanwhile, in a small bowl, combine the remaining butter, garlic and lemon juice with the wine (or chicken stock).
+      12: Serve with the salmon, veggies and lemon slices!
+

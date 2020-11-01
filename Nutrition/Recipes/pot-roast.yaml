@@ -1,6 +1,9 @@
 Recipe:
+  Name: Pot Roast
+  Id: bHKY5ucxbZ
   Tags:
     - Meat
+    - Beef
     - Lunch
     - Dinner
     - Slow Cooker
@@ -76,24 +79,27 @@ Recipe:
     - Name: large pot (more detail needed)
       Id: ??
   Instructions:
-    1: Heat 1 Tbsp olive oil in a large pot over medium-high heat.
-    2: Dab roast dry with paper towels,
-    3: Season roast all over with salt and pepper.
-    4: Sear roast in pot until browned on both sides, about 4 - 5 minutes per side.
-    5: Transfer roast to slow cooker.
-    6: Add remaining 1/2 Tbsp olive oil to pot.
-    7: Add onion and saute 2 minutes,
-    8: Add garlic and saute 30 seconds longer.
-    9: Pour onion mixture over roast in slow cooker.
-    10: Return pot to heat, pour in beef broth, Worcestershire, thyme and rosemary and cook about 15 seconds, just long enough to scrape up browned bits from the bottom of the pot.
-    11: Remove from heat.
-    12: Layer potatoes and carrots over onion layer in slow cooker, pour beef broth evenly over top then season with salt and pepper.
-    13: Cover slow cooker and cook on low heat until roast and vegetables are tender, about 8 - 9 hours.
-    14: Remove roast and vegetables, shred roast (discard fat) and cut potatoes if desired.
-    15: If you'd like to thicken the broth and make a gravy
-       Pour broth from slow cooker through a fine mesh strainer into a small saucepan**.
-       Heat over medium-high heat.
-       Whisk cornstarch with 3 Tbsp beef broth then pour into saucepan.
-       Bring to a simmer, stirring constantly, let simmer 30 - 60 seconds.
-    16: Plate roast and vegetables, pour gravy over the top and sprinkle with parsley.
+    Main:
+      1: Heat 1 Tbsp olive oil in a large pot over medium-high heat.
+      2: Dab roast dry with paper towels,
+      3: Season roast all over with salt and pepper.
+      4: Sear roast in pot until browned on both sides, about 4 - 5 minutes per side.
+      5: Transfer roast to slow cooker.
+      6: Add remaining 1/2 Tbsp olive oil to pot.
+      7: Add onion and saute 2 minutes,
+      8: Add garlic and saute 30 seconds longer.
+      9: Pour onion mixture over roast in slow cooker.
+      10: Return pot to heat, pour in beef broth, Worcestershire, thyme and rosemary and cook about 15 seconds, just long enough to scrape up browned bits from the bottom of the pot.
+      11: Remove from heat.
+      12: Layer potatoes and carrots over onion layer in slow cooker, pour beef broth evenly over top then season with salt and pepper.
+      13: Cover slow cooker and cook on low heat until roast and vegetables are tender, about 8 - 9 hours.
+      14: Remove roast and vegetables, shred roast (discard fat) and cut potatoes if desired.
+      15: Make Gravy.
+      16: Plate roast and vegetables, pour gravy over the top and sprinkle with parsley.
+    Gravy:
+       1: If you'd like to thicken the broth and make a gravy
+       2: Pour broth from slow cooker through a fine mesh strainer into a small saucepan**.
+       3: Heat over medium-high heat.
+       4: Whisk cornstarch with 3 Tbsp beef broth then pour into saucepan.
+       5: Bring to a simmer, stirring constantly, let simmer 30 - 60 seconds.
 

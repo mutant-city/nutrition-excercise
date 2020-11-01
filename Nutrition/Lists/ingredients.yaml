@@ -1,0 +1,75 @@
+Ingredients:
+    - Name:  olive oil
+      ID: exfwr3Wto0
+      Tag:
+        - seasoning
+    - Name:  beef chuck roast
+      Id: tLxEHE9eZE
+      Tag:
+        - beef
+    - Name: black peppercorns
+      Id: M6yR28aUg0
+      Tag:
+        - seasoning
+    - Name: salt
+      Id: C5qJQ7HAYl
+      Tag:
+        - seasoning
+    - Name: yellow onion
+      Id: 5dGJHAxGuT
+      Tag:
+        - onion
+        - vegetable
+    - Name: beef broth
+      Id: ImNoLDMlRS
+      Tag:
+        - broth
+    - Name: carrot
+      Id: QFfyGfPKWu
+      Tag:
+        - vegetable
+    - Name: parsley
+      Id: aCrFWuVl55
+      Tag:
+        - seasoning
+        - fresh
+    - Name: rosemary
+      Id: apf2eHAzpc
+      Tag:
+        - seasoning
+        - fresh
+    - Name: thyme
+      Id: apf2eHAzpc
+      Tag:
+        - seasoning
+        - fresh
+    - Name: garlic
+      Id: x3ZyMTFuFd
+      Tag:
+        - seasoning
+    - Name:  worcestershire sauce
+      Id: ajf7LB86po
+      Tag:
+        - sauce
+        - seasoning
+    - Name:  yukon gold potatoes
+      Id: QezTiU3m8T
+      Tag:
+        - potato
+        - vegetable
+    - Name: fingerling potatoes
+      Id: b2MGCydAw7
+      Option: SiGEc7EBhV
+      Tag:
+        - potato
+        - vegetable
+    - Name: red potatoes
+      Id: j3mIQlkoNG
+      Tag:
+        - potato
+        - vegetable
+    - Name: salmon fillets
+      Id: AECdVgBl5o
+      Tag:
+        - seafood
+        - fish
